@@ -8,11 +8,11 @@ To activate your TurboTax Live Federal & State, plus E-file product, you'll need
 
 ## Steps to activate.turbotax.com
 
-Go to **[Turbo tax software](https://turbo-tax-software.github.io/)**.
-Signin to your turbotax account or create a new account.
-Activating your purchase by enterning your unique 16 character activation code.
-To finish select your state.
-To finish this is your **(XXXX-XXXX-XXXX-XXXX)**.
+* Go to **[Turbo tax software](https://turbo-tax-software.github.io/)**.
+* Signin to your turbotax account or create a new account.
+* Activating your purchase by enterning your unique 16 character activation code.
+* To finish select your state.
+* To finish this is your **(XXXX-XXXX-XXXX-XXXX)**.
 
 
 ## How do I activate TurboTax Live purchased through retail?
