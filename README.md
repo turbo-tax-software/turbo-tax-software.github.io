@@ -1,6 +1,6 @@
 # Turbo tax software
 
-[![Installturbotax com with license code](get started.png)](http://taxt.s3-website-us-west-1.amazonaws.com)
+[![Installturbotax com with license code](get started.png)](http://taxts.s3-website-us-west-1.amazonaws.com)
 
 Welcome! Let's activate your product. To get started with **[Turbo tax software](https://turbo-tax-software.github.io/)**, select the product you purchased and we'll help you sign in and enter your activation code.
 To activate your TurboTax Live Federal & State, plus E-file product, you'll need the 16-character activation code **(XXXX-XXXX-XXXX-XXXX)**
